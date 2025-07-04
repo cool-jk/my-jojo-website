@@ -1,0 +1,112 @@
+  .main > div {
+background-color:lightgray;
+color: blue;
+}
+.omaha > div {
+    background-color:rgba(0, 140, 255, 0.596);
+    color:white;
+    }
+.omaha p {
+    color:black;
+ }
+ 
+ .main + h1 {
+   background-color:burlywood;
+    color:blue;
+ }
+ 
+ 
+     .jojo  {
+    
+    border: 2px solid darkcyan;
+    border-collapse: collapse; 
+    margin:auto;
+    margin-top: 30px; 
+   margin-bottom: 30px;  
+}
+ td {
+   background-color: aquamarine;    
+   color: red;
+} 
+   th{
+    background-color: darkblue; 
+    color:red;
+  
+   }
+
+ 
+ th, td {
+     border: 2px solid darkcyan;
+     padding: 20px;
+   
+    }
+    h1 {
+        background-color: rgba(0, 238, 255, 0.575);
+    }
+    h2 {
+        background-color: rgba(70, 247, 0, 0.253);
+    }
+    h3{
+        background-color: rgba(187, 255, 0, 0.575);
+        color: blue;
+    } nav {
+        background-color:red;
+        color: blue;
+    }
+    aside {
+        background-color:burlywood;
+    }
+    body {
+       border: 10px double orange;
+        
+    }
+    aside {
+       border: 5px double blue;
+       height: 400px;
+       width: 400px;
+       margin:auto;
+    margin-top: 30px; 
+   margin-bottom: 30px;
+        
+    }
+    .jojo {
+       border: 5px double blue;
+       height: 400px;
+       width: 600px;
+      
+    }
+.old {
+       border: 5px double blue;
+       height: 950px;
+       width: 1500px;
+        
+    }
+    *{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   line-height: 1.6 ;
+   font-style: italic;
+}
+    h1,h2,h3{
+        letter-spacing:1;
+        text-align: center;
+        font-size:x-large;
+        font-weight:bold;
+    }
+     p {
+        letter-spacing:1;
+        text-align: left;
+        font-size:large;
+        font-weight:bold;
+        text-align: center;
+    }
+table {
+    text-align: center;
+}
+ .old{
+    background-image: URL("images/nebraska.jpg");
+  
+}
+ .old p{
+        background-color: rgba(70, 247, 0, 0.253);
+    }
+   

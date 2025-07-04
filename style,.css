@@ -1,0 +1,25 @@
+
+h1{background-color:red;  }
+body { background-color:pink;  }
+p { background-color:rgb(98, 0, 255);  }
+
+/*header*/
+#main-heading, nav{
+    background-color:gold;
+    
+}
+#main-heading{font-size: xx-large;}
+
+/* universals selctors */
+     {
+    font-family:Arial, Helvetica, sans-serif;
+     }
+    /* navbar styling */
+    nav {  
+        background-color:aqua;
+    }
+    
+     /* class selector */
+    .selection-style{
+        background-color:rgb(98, 0, 255 );      
+    }

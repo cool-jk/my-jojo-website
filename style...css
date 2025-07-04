@@ -1,0 +1,21 @@
+ h1,h2,h3{
+        letter-spacing:1;
+        text-align: center;
+        font-size:x-large;
+        font-weight:bold;
+    background-color: rgba(136, 255, 0, 0.493);
+    color: rgba(0, 68, 255, 0.911);
+    } 
+    p {
+        letter-spacing:1;
+        text-align: left;
+        font-size:large;
+        font-weight:bold;
+   background-color:rgb(192, 242, 255);
+   color: black;
+    }
+  body{
+        background-image: url("images/po.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
